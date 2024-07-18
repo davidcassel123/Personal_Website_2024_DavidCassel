@@ -1,2 +1,21 @@
 David Cassel
   July 2024
+What about anti virus when switching to linux?
+You can get it but you can also get away without it
+
+Youtube videos used for this whole process
+Linux install overview  https://www.youtube.com/watch?v=S98qGgOqF-k&t=62s 
+Javascript game example (Dr. Ford suggested to find one this is the one I found first)
+https://youtube.com/playlist?list=PLCbP9KGntfcG3WMcxEvpxlkQ9zZ3C7gRA&si=FtShka867t6Vs0h4 
+Working on step 2 https://www.youtube.com/watch?v=zdVgBhze1JI 
+https://youtube.com/playlist?list=PLcIaPHraYF7k4FbeGIDY-1mZZdjTu9QyL&si=6BwsdeCPagpi3O4K 
+****Very helpful**** https://www.youtube.com/watch?v=d_jjPhh8PJo 
+HTML guide https://www.youtube.com/watch?v=qz0aGYrrlhU 
+
+Step 1:
+Convert old computer from windows to linux and wipe all data
+Step 2:
+Setup backend and frontend and website host stuff 
+VS code
+Node JS
+
