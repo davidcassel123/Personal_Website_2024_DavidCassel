@@ -12,6 +12,8 @@ https://youtube.com/playlist?list=PLcIaPHraYF7k4FbeGIDY-1mZZdjTu9QyL&si=6BwsdeCP
 ****Very helpful**** https://www.youtube.com/watch?v=d_jjPhh8PJo 
 HTML guide https://www.youtube.com/watch?v=qz0aGYrrlhU 
 
+Bootstrap template I used: https://startbootstrap.com/theme/stylish-portfolio
+
 Step 1:
 Convert old computer from windows to linux and wipe all data
 Step 2:
