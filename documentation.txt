@@ -18,6 +18,8 @@ making Maven adapter  https://www.ibm.com/docs/en/mpf/8.0.0?topic=adapters-creat
 
 JDk and Maven install https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu 
 
+react tourtorial  https://www.youtube.com/watch?v=SqcY0GlETPk 
+
 Step 1:
 Convert old computer from windows to linux and wipe all data
 Step 2:
