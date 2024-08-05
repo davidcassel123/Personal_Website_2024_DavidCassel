@@ -20,6 +20,8 @@ JDk and Maven install https://www.digitalocean.com/community/tutorials/install-m
 
 react tourtorial  https://www.youtube.com/watch?v=SqcY0GlETPk 
 
+Spring boot tourtorial VERY HELPFUL https://www.youtube.com/watch?v=QuvS_VLbGko 
+
 ChatGPT prompt to learn how to connect java and javascript:
 "how to call a java class inside of javascript code after setting up a maven adapter on my machine in vs code"
 
